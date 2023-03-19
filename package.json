@@ -1,0 +1,56 @@
+{
+  "name": "@lunaticmuch/country-codes",
+  "version": "1.0.0",
+  "description": "Library with country codes",
+  "license": "MIT",
+  "keywords": [
+    "iso-3166",
+    "iso-3166-1",
+    "iso",
+    "3166",
+    "3166-1",
+    "country",
+    "languages",
+    "unterm",
+    "fips",
+    "fifa",
+    "iso-639",
+    "unterm",
+    "uno",
+    "M49",
+    "geoscheme",
+    "cldr",
+    "edgar",
+    "gaul",
+    "ioc",
+    "wmo",
+    "tld",
+    "language codes",
+    "currencies",
+    "currency",
+    "iso-4217"
+  ],
+  "repository": "LunaticMuch/country-codes",
+  "bugs": "https://github.com/LunaticMuch/country-codes/issues",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LunaticMuch"
+  },
+  "author": "Stefano Cislaghi <s.cislaghi@gmail.com> (https://stefanocislaghi.com)",
+  "contributors": [
+    "Stefano Cislaghi <s.cislaghi@gmail.com> (https://stefanocislaghi.com)"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  }
+}
